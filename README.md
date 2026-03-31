@@ -83,7 +83,7 @@ This creates **dependency risk**, making the business vulnerable to disruptions 
 
 ## 📁 Project Files
 - [SQL Queries](ecommerce_analysis.sql)  
-- [Excel Dataset & Analysis](ecommerce_sales_analysis_2024.xlsx)  
+- [Excel Dataset & Analysis](ecommerce_sales_analysis_2024.csv)  
 - [Power BI Dashboard](ecomerce.bi_dashboard.pdf)
 
 ## Tools and Skills
